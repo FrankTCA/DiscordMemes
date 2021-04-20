@@ -1,5 +1,5 @@
 # Discord Memes
-So I got this idea of making the list of memes that I keep for interaction on Diiscord, and making it a public git repository. This way, if you want, you can put in a pull request, and maybe you can help me and everyone who uses it by adding more to the repository.
+So I got this idea of making the list of memes that I keep for interaction on Discord, and making it a public git repository. This way, if you want, you can put in a pull request, and maybe you can help me and everyone who uses it by adding more to the repository.
 
 Most of these memes are just for simple interaction, like laughing at whoever spoke directly before (or after) you, and others may be useful in normal discussion.
 
